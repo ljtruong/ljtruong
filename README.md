@@ -1,6 +1,6 @@
 ## 🦁 Leon Truong
 
-Hi, I'm Leon - a machine learning engineer at Transurban working on improving customer experiences through image recognition solutions. I'm a huge nerd about exploring state-of-art image recognition papers and ML Ops.
+Hi, I'm Leon - a machine learning engineer working on image recognition, recommendations graph neural networks and MLOps. I'm a huge nerd about exploring state-of-art image recognition, reinforcement learning and graph neural networks.
 
 In my free time, I delve into reinforcement learning applications. And recently exploring the space of Graph ML.
 
